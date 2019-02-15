@@ -1,0 +1,119 @@
+Group_1
+MONDAY,TUESDAY,WEDNESDAY,THURSDAY,FRIDAY,
+"","","","UCS521 T
+D202          RKS","",
+"UCS521 L
+T104          ANJ","","","UCS503 P
+D201          RKS","",
+"","UCS503 L
+CS8          ANJ","","UCS503 P
+D201          RKS","UCS519 L
+F103          MKU",
+"","UCS519 L
+E107          MKU","","","",
+"","","","","",
+"","","","","",
+"","UCS519 P
+UGCS9          AKL","","","",
+"UCS521 L
+CS7          MKU","UCS519 P
+UGCS9          AKL","","","",
+"","","","UCS521 L
+G320          MKU","",
+"","","","","",
+"","","","","",
+
+Group_2
+MONDAY,TUESDAY,WEDNESDAY,THURSDAY,FRIDAY,
+"","","","","",
+"UCS521 L
+T104          ANJ","","","","",
+"","UCS503 L
+CS8          ANJ","","","UCS519 L
+F103          MKU",
+"","UCS519 L
+E107          MKU","","","",
+"","","","","",
+"","","","","",
+"","","","","UCS519 P
+D201          AKL",
+"UCS521 L
+CS7          MKU","","UCS503 P
+BECAG          AKL","","UCS519 P
+D201          AKL",
+"","","UCS503 P
+BECAG          AKL","UCS521 L
+G320          MKU","",
+"","","","","",
+"","","","","",
+
+Group_3
+MONDAY,TUESDAY,WEDNESDAY,THURSDAY,FRIDAY,
+"","","","","UCS521 L
+E107          ANJ",
+"","","","","UCS521 L
+G253A          AKL",
+"","UCS503 L
+CS8          ANJ","","","UCS519 L
+F103          MKU",
+"","UCS519 L
+E107          MKU","","","UCS521 L
+F206          AKL",
+"","","","","",
+"","","","","",
+"","UCS503 P
+E106          ANJ","UCS519 P
+E108          MKU","","",
+"","UCS503 P
+E106          ANJ","UCS519 P
+E108          MKU","","",
+"","","","","",
+"","","","","",
+"","","","","",
+
+Group_4
+MONDAY,TUESDAY,WEDNESDAY,THURSDAY,FRIDAY,
+"","UCS519 L
+CS5B          ANJ","UCS519 L
+CS7          RKS","","UCS521 L
+E107          ANJ",
+"","","","UCS521 T
+G315          PKC","UCS521 L
+G253A          AKL",
+"","","","","",
+"","","","","UCS521 L
+F206          AKL",
+"","","","","",
+"","","","","",
+"UCS519 P
+E102          PKC","","","","",
+"UCS519 P
+E102          PKC","","","","",
+"","","UCS503 L
+UGCS9          PKC","","",
+"","","","","",
+"","","","","",
+
+Group_5
+MONDAY,TUESDAY,WEDNESDAY,THURSDAY,FRIDAY,
+"","UCS519 L
+CS5B          ANJ","UCS519 L
+CS7          RKS","","UCS521 L
+E107          ANJ",
+"","","","","UCS521 L
+G253A          AKL",
+"","","UCS519 P
+E205          AKL","","",
+"","","UCS519 P
+E205          AKL","","UCS521 L
+F206          AKL",
+"","","","","",
+"","","","","",
+"","","","UCS521 T
+E105          AKL","",
+"","","","","",
+"","","UCS503 L
+UGCS9          PKC","","",
+"","","","","",
+"","","","","",
+

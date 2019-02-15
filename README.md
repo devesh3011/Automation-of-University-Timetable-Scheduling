@@ -1,1 +1,2 @@
-# Automation-of-University-Timetable-Scheduling
+# TTSchedule
+Our Capstone project of TimeTable Scheduling

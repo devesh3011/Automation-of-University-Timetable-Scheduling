@@ -1,0 +1,8 @@
+#subject,:(sub-group seperator) =(lecture-group sperator),no of lecture groups
+UCS503 L,1:2:3=4:5
+UCS503 P,1=2=3
+UCS519 L,1:2:3=4:5
+UCS519 P,1=2=3=4=5
+UCS521 L,1:2=3:4:5
+UCS521 T,1=4=5
+#
